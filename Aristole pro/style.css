@@ -1,0 +1,33 @@
+.container{
+    background-color: white;
+}
+.heading{
+    background-color:gainsboro;
+    text-align: center;
+}
+.intro{
+    border: 1px solid
+     grey ;
+    margin-bottom: 10px;
+}
+.image{
+    border:1px solid grey;
+    margin: 4px;
+}
+.circular{
+    border-radius: 60%;
+    display:inline-block;
+    vertical-align: middle;
+    margin:auto;
+    box-sizing: border-box;
+    
+}
+image,p{
+    background-color: lightgray;
+    
+}
+.ul{
+    text-align: center;
+    list-style-position: inside;
+
+}
